@@ -2,7 +2,7 @@
 Jupyter notebooks to bulk download KML files from the Forest clearance portal, Ministry of Environment and Forests, India (https://parivesh.nic.in/search_proposals.aspx).  
 
 ##### Steps
-* Export he list of project as an XLS file
+* Export the list of project as an XLS file from http://forestsclearance.nic.in/Online_Status.aspx. 
 * Place the file in Jupyter's working directory. 
 * Install the necessary Python libraries and run all the cells of the notebook. 
 
